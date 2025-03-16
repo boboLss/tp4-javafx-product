@@ -1,0 +1,14 @@
+.root {
+    -fx-font-family: Arial;
+    -fx-padding: 10;
+}
+
+.button {
+    -fx-background-color: #4CAF50;
+    -fx-text-fill: white;
+}
+
+.text-field {
+    -fx-border-color: #4CAF50;
+    -fx-border-width: 2px;
+}

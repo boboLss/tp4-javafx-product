@@ -1,1 +1,1 @@
-# tp4-javafx-product
+# tp4-javafx-product-management
